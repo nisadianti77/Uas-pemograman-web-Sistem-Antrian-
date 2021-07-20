@@ -13,4 +13,4 @@ Dokumentasi yutub : https://youtu.be/PfuELHXmA_c
 Web Hosting : http://loket1.000webhostapp.com/
 
 Username : "admin"
-Passord : "admin"
+Password : "admin"
