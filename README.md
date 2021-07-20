@@ -11,3 +11,6 @@ KELAS : TI.19.B1
 Dokumentasi yutub : https://youtu.be/PfuELHXmA_c
 
 Web Hosting : http://loket1.000webhostapp.com/
+
+Username : "admin"
+Passord : "admin"
